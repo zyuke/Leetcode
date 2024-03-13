@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/palindrome-linked-list
+# https://leetcode.com/problems/palindrome-linked-list
 
 # Definition for singly-linked list.
 # class ListNode(object):

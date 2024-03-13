@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/integer-break
+# https://leetcode.com/problems/integer-break
 
 class Solution(object):
     def integerBreak(self, n):

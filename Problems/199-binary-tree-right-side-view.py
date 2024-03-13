@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/binary-tree-right-side-view
+# https://leetcode.com/problems/binary-tree-right-side-view
 
 # Definition for a binary tree node.
 # class TreeNode:

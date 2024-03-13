@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/destroying-asteroids
+# https://leetcode.com/problems/destroying-asteroids
 
 class Solution:
     def asteroidsDestroyed(self, mass: int, asteroids: List[int]) -> bool:

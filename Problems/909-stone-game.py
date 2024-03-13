@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/stone-game
+# https://leetcode.com/problems/stone-game
 
 class Solution(object):
     def stoneGame(self, piles):

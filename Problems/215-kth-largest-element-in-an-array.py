@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/kth-largest-element-in-an-array
+# https://leetcode.com/problems/kth-largest-element-in-an-array
 
 class Solution(object):
     def findKthLargest(self, nums, k):

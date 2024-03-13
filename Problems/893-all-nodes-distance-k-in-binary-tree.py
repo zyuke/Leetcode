@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree
+# https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree
 
 # Definition for a binary tree node.
 # class TreeNode:

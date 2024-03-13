@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/count-all-possible-routes
+# https://leetcode.com/problems/count-all-possible-routes
 
 class Solution:
     def countRoutes(self, locations: List[int], start: int, finish: int, fuel: int) -> int:

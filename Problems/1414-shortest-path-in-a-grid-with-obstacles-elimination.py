@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination
+# https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination
 
 class Solution:
     def shortestPath(self, grid: List[List[int]], k: int) -> int:

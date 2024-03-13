@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/number-of-longest-increasing-subsequence
+# https://leetcode.com/problems/number-of-longest-increasing-subsequence
 
 class Solution:
     def findNumberOfLIS(self, nums: List[int]) -> int:

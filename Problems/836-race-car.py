@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/race-car
+# https://leetcode.com/problems/race-car
 
 class Solution:
     def racecar(self, target: int) -> int:

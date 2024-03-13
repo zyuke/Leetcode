@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/word-pattern
+# https://leetcode.com/problems/word-pattern
 
 class Solution:
     def wordPattern(self, pattern: str, str: str) -> bool:

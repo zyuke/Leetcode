@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/wiggle-subsequence
+# https://leetcode.com/problems/wiggle-subsequence
 
 class Solution:
     def wiggleMaxLength(self, nums: List[int]) -> int:

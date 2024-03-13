@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/amount-of-new-area-painted-each-day
+# https://leetcode.com/problems/amount-of-new-area-painted-each-day
 
 class Solution:
     def amountPainted(self, paint: List[List[int]]) -> List[int]:

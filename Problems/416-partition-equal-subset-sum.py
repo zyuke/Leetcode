@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/partition-equal-subset-sum
+# https://leetcode.com/problems/partition-equal-subset-sum
 
 class Solution:
     def canPartition(self, nums: List[int]) -> bool:

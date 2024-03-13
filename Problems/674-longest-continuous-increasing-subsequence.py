@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/longest-continuous-increasing-subsequence
+# https://leetcode.com/problems/longest-continuous-increasing-subsequence
 
 class Solution:
     def findLengthOfLCIS(self, nums: List[int]) -> int:

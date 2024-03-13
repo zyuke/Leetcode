@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/valid-parentheses
+# https://leetcode.com/problems/valid-parentheses
 
 class Solution(object):
     def isValid(self, s):

@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/minimum-area-rectangle
+# https://leetcode.com/problems/minimum-area-rectangle
 
 class Solution:
     def minAreaRect(self, points: List[List[int]]) -> int:

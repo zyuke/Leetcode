@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/peak-index-in-a-mountain-array
+# https://leetcode.com/problems/peak-index-in-a-mountain-array
 
 class Solution(object):
     def peakIndexInMountainArray(self, A):

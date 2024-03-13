@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/4sum-ii
+# https://leetcode.com/problems/4sum-ii
 
 class Solution(object):
     def fourSumCount(self, A, B, C, D):

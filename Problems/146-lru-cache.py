@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/lru-cache
+# https://leetcode.com/problems/lru-cache
 
 from collections import OrderedDict
 class LRUCache:

@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/next-greater-element-ii
+# https://leetcode.com/problems/next-greater-element-ii
 
 class Solution(object):
     def nextGreaterElements(self, nums):

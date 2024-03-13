@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends
+# https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends
 
 class Solution:
     def earliestAcq(self, logs: List[List[int]], n: int) -> int:

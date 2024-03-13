@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/find-and-replace-pattern
+# https://leetcode.com/problems/find-and-replace-pattern
 
 class Solution(object):
     def findAndReplacePattern(self, words, pattern):

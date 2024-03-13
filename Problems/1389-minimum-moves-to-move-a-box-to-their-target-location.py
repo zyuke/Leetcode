@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location
+# https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location
 
 class Solution:
     def minPushBox(self, grid: List[List[str]]) -> int:

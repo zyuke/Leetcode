@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/number-complement
+# https://leetcode.com/problems/number-complement
 
 class Solution(object):
     def findComplement(self, num):

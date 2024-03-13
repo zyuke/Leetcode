@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/sort-array-by-parity
+# https://leetcode.com/problems/sort-array-by-parity
 
 class Solution(object):
     def sortArrayByParity(self, A):

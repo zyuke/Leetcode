@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards
+# https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards
 
 class Solution:
     def maxScore(self, cardPoints: List[int], k: int) -> int:

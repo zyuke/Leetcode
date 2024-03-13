@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/remove-covered-intervals
+# https://leetcode.com/problems/remove-covered-intervals
 
 class Solution:
     def removeCoveredIntervals(self, intervals: List[List[int]]) -> int:

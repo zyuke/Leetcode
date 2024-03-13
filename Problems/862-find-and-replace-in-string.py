@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/find-and-replace-in-string
+# https://leetcode.com/problems/find-and-replace-in-string
 
 class Solution:
     def findReplaceString(self, s: str, indices: List[int], sources: List[str], targets: List[str]) -> str:

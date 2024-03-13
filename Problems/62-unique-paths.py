@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/unique-paths
+# https://leetcode.com/problems/unique-paths
 
 class Solution(object):
     def uniquePaths(self, m, n):

@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/transpose-matrix
+# https://leetcode.com/problems/transpose-matrix
 
 class Solution(object):
     def transpose(self, A):

@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/satisfiability-of-equality-equations
+# https://leetcode.com/problems/satisfiability-of-equality-equations
 
 class Solution:
     def equationsPossible(self, equations: List[str]) -> bool:

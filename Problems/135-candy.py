@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/candy
+# https://leetcode.com/problems/candy
 
 class Solution:
     def candy(self, ratings: List[int]) -> int:

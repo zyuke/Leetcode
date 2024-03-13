@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i
+# https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i
 
 class Solution:
     def maxCount(self, banned: List[int], n: int, maxSum: int) -> int:

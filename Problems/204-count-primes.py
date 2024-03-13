@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/count-primes
+# https://leetcode.com/problems/count-primes
 
 from math import sqrt
 class Solution(object):

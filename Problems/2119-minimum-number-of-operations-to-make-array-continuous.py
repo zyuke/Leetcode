@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous
+# https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous
 
 class Solution:
     def minOperations(self, nums: List[int]) -> int:

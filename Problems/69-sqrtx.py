@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/sqrtx
+# https://leetcode.com/problems/sqrtx
 
 class Solution(object):
     def mySqrt(self, x):

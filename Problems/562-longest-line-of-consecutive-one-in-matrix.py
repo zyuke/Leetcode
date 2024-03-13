@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix
+# https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix
 
 class Solution:
     def longestLine(self, mat: List[List[int]]) -> int:

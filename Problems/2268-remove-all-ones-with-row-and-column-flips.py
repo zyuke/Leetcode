@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips
+# https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips
 
 class Solution:
     def removeOnes(self, grid: List[List[int]]) -> bool:

@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/most-profit-assigning-work
+# https://leetcode.com/problems/most-profit-assigning-work
 
 class Solution:
     def maxProfitAssignment(self, difficulty: List[int], profit: List[int], worker: List[int]) -> int:

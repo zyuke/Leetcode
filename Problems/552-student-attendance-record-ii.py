@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/student-attendance-record-ii
+# https://leetcode.com/problems/student-attendance-record-ii
 
 class Solution:
     def checkRecord(self, n: int) -> int:

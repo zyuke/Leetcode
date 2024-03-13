@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/missing-number
+# https://leetcode.com/problems/missing-number
 
 class Solution(object):
     def missingNumber(self, nums):

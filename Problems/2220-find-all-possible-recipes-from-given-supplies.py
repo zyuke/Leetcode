@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies
+# https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies
 
 class Solution:
     def findAllRecipes(self, recipes: List[str], ingredients: List[List[str]], supplies: List[str]) -> List[str]:

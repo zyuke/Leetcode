@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/guess-the-word
+# https://leetcode.com/problems/guess-the-word
 
 # """
 # This is Master's API interface.

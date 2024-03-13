@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/factorial-trailing-zeroes
+# https://leetcode.com/problems/factorial-trailing-zeroes
 
 class Solution(object):
     def trailingZeroes(self, n):

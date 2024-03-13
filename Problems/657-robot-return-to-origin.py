@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/robot-return-to-origin
+# https://leetcode.com/problems/robot-return-to-origin
 
 class Solution(object):
     def judgeCircle(self, moves):

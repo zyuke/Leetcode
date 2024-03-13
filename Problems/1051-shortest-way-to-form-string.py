@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/shortest-way-to-form-string
+# https://leetcode.com/problems/shortest-way-to-form-string
 
 class Solution:
     def shortestWay(self, source: str, target: str) -> int:

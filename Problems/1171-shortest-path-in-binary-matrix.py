@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/shortest-path-in-binary-matrix
+# https://leetcode.com/problems/shortest-path-in-binary-matrix
 
 class Solution:
     def shortestPathBinaryMatrix(self, grid: List[List[int]]) -> int:

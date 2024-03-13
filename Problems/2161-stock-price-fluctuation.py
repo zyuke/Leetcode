@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/stock-price-fluctuation
+# https://leetcode.com/problems/stock-price-fluctuation
 
 from sortedcontainers import SortedDict
 class StockPrice:

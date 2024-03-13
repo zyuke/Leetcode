@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/time-needed-to-inform-all-employees
+# https://leetcode.com/problems/time-needed-to-inform-all-employees
 
 class Solution:
     def numOfMinutes(self, n: int, headID: int, manager: List[int], informTime: List[int]) -> int:

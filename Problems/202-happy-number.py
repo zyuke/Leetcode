@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/happy-number
+# https://leetcode.com/problems/happy-number
 
 def sum_digits(n):
     s = 0

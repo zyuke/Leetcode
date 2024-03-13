@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/number-of-increasing-paths-in-a-grid
+# https://leetcode.com/problems/number-of-increasing-paths-in-a-grid
 
 class Solution:
     def countPaths(self, grid: List[List[int]]) -> int:

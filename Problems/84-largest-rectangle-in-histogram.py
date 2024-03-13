@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/largest-rectangle-in-histogram
+# https://leetcode.com/problems/largest-rectangle-in-histogram
 
 class Solution:
     def largestRectangleArea(self, heights: List[int]) -> int:

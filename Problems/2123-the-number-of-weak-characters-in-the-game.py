@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/the-number-of-weak-characters-in-the-game
+# https://leetcode.com/problems/the-number-of-weak-characters-in-the-game
 
 class Solution:
     def numberOfWeakCharacters(self, properties: List[List[int]]) -> int:

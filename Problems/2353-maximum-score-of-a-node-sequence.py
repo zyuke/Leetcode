@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/maximum-score-of-a-node-sequence
+# https://leetcode.com/problems/maximum-score-of-a-node-sequence
 
 class Solution:
     def maximumScore(self, scores: List[int], edges: List[List[int]]) -> int:

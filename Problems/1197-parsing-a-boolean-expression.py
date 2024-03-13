@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/parsing-a-boolean-expression
+# https://leetcode.com/problems/parsing-a-boolean-expression
 
 class Solution:
     def parseBoolExpr(self, expression: str) -> bool:

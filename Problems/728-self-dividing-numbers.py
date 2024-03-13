@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/self-dividing-numbers
+# https://leetcode.com/problems/self-dividing-numbers
 
 class Solution(object):
     def is_self_dividing(self,x):

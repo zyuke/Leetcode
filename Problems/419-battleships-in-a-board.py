@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/battleships-in-a-board
+# https://leetcode.com/problems/battleships-in-a-board
 
 class Solution(object):
     def countBattleships(self, board):

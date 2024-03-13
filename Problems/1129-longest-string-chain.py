@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/longest-string-chain
+# https://leetcode.com/problems/longest-string-chain
 
 class Solution:
     def longestStrChain(self, words: List[str]) -> int:

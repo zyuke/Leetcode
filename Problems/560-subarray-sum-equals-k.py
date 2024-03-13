@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/subarray-sum-equals-k
+# https://leetcode.com/problems/subarray-sum-equals-k
 
 class Solution(object):
     def subarraySum(self, nums, k):

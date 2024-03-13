@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/all-paths-from-source-to-target
+# https://leetcode.com/problems/all-paths-from-source-to-target
 
 class Solution(object):
     def allPathsSourceTarget(self, graph):

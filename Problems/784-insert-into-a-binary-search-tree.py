@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/insert-into-a-binary-search-tree
+# https://leetcode.com/problems/insert-into-a-binary-search-tree
 
 # Definition for a binary tree node.
 # class TreeNode:

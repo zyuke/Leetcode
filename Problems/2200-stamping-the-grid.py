@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/stamping-the-grid
+# https://leetcode.com/problems/stamping-the-grid
 
 class Solution:
     def possibleToStamp(self, grid: List[List[int]], stampHeight: int, stampWidth: int) -> bool:

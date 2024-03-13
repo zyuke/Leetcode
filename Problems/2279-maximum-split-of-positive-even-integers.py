@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/maximum-split-of-positive-even-integers
+# https://leetcode.com/problems/maximum-split-of-positive-even-integers
 
 class Solution:
     def maximumEvenSplit(self, finalSum: int) -> List[int]:

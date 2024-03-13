@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/minimum-add-to-make-parentheses-valid
+# https://leetcode.com/problems/minimum-add-to-make-parentheses-valid
 
 class Solution(object):
     def minAddToMakeValid(self, S):

@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/corporate-flight-bookings
+# https://leetcode.com/problems/corporate-flight-bookings
 
 class Solution:
     def corpFlightBookings(self, bookings: List[List[int]], n: int) -> List[int]:

@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/find-leaves-of-binary-tree
+# https://leetcode.com/problems/find-leaves-of-binary-tree
 
 # Definition for a binary tree node.
 # class TreeNode:

@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/max-increase-to-keep-city-skyline
+# https://leetcode.com/problems/max-increase-to-keep-city-skyline
 
 class Solution(object):
     def maxIncreaseKeepingSkyline(self, grid):

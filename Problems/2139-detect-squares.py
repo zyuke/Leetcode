@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/detect-squares
+# https://leetcode.com/problems/detect-squares
 
 class DetectSquares:
 

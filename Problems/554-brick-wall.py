@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/brick-wall
+# https://leetcode.com/problems/brick-wall
 
 class Solution:
     def leastBricks(self, wall: List[List[int]]) -> int:

@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/pascals-triangle
+# https://leetcode.com/problems/pascals-triangle
 
 class Solution(object):
     def generate(self, numRows):

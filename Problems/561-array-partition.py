@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/array-partition
+# https://leetcode.com/problems/array-partition
 
 class Solution(object):
     def arrayPairSum(self, nums):

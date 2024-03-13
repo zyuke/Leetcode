@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/first-unique-character-in-a-string
+# https://leetcode.com/problems/first-unique-character-in-a-string
 
 class Solution(object):
     def firstUniqChar(self, s):

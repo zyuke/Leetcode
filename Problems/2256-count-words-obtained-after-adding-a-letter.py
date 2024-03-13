@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/count-words-obtained-after-adding-a-letter
+# https://leetcode.com/problems/count-words-obtained-after-adding-a-letter
 
 class Solution:
     def wordCount(self, startWords: List[str], targetWords: List[str]) -> int:

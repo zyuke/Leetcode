@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/score-of-parentheses
+# https://leetcode.com/problems/score-of-parentheses
 
 class Solution(object):
     def scoreOfParentheses(self, S):

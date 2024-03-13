@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/house-robber
+# https://leetcode.com/problems/house-robber
 
 class Solution(object):
     def rob(self, nums):

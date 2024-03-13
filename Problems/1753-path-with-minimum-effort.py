@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/path-with-minimum-effort
+# https://leetcode.com/problems/path-with-minimum-effort
 
 class Solution:
     def minimumEffortPath(self, heights: List[List[int]]) -> int:

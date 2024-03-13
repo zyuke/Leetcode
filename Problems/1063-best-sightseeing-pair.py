@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/best-sightseeing-pair
+# https://leetcode.com/problems/best-sightseeing-pair
 
 class Solution:
     def maxScoreSightseeingPair(self, values: List[int]) -> int:

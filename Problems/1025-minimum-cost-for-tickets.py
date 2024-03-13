@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/minimum-cost-for-tickets
+# https://leetcode.com/problems/minimum-cost-for-tickets
 
 class Solution:
     def mincostTickets(self, days: List[int], costs: List[int]) -> int:

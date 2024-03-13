@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/best-team-with-no-conflicts
+# https://leetcode.com/problems/best-team-with-no-conflicts
 
 class Solution:
     def bestTeamScore(self, scores: List[int], ages: List[int]) -> int:

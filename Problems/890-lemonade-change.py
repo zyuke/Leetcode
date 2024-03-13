@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/lemonade-change
+# https://leetcode.com/problems/lemonade-change
 
 class Solution(object):
     def lemonadeChange(self, bills):

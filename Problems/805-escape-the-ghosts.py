@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/escape-the-ghosts
+# https://leetcode.com/problems/escape-the-ghosts
 
 class Solution(object):
     def escapeGhosts(self, ghosts, target):

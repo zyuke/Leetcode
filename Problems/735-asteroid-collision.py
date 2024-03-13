@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/asteroid-collision
+# https://leetcode.com/problems/asteroid-collision
 
 class Solution:
     def asteroidCollision(self, asteroids: List[int]) -> List[int]:
